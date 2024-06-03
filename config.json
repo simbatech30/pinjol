@@ -1,0 +1,172 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://windigitalkhatulistiwa.blogspot.com/p/privacy-policy.html",
+      "email_feedback_and_report": "windigitaldev2021@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "wortise_app_id": "test-app-id",
+      "wortise_banner_id": "test-banner",
+      "wortise_interstitial_id": "test-interstitial",
+      "wortise_native_id": "test-native",
+      "wortise_app_open_id": "test-app-open",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tips Pinjaman Online",
+      "image": "https://raw.githubusercontent.com/simbatech30/pinjol/main/banner.jpg"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Tips Pinjaman Online",
+      "title": "Aplikasi Pinjaman Online : Kemudahan Akses Keuangan di Era Digital",
+      "image": "https://raw.githubusercontent.com/simbatech30/pinjol/main/banner.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pinjol/main/danamu1.html",
+      "video": ""
+    },
+    {
+      "id": 2,
+      "category": "Tips Pinjaman Online",
+      "title": "Syarat Daftar Aplikasi : Langkah Mudah Menuju Keuangan yang Lebih Baik",
+      "image": "https://raw.githubusercontent.com/simbatech30/pinjol/main/banner.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pinjol/main/danamu2.html",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Tips Pinjaman Online",
+      "title": "Panduan Lengkap Cara Daftar Aplikasi ",
+      "image": "https://raw.githubusercontent.com/simbatech30/pinjol/main/banner.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pinjol/main/danamu3.html",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "Tips Pinjaman Online",
+      "title": "Mengungkap Rahasia Cara Cepat Cair Aplikasi untuk Kemudahan Finansial Anda",
+      "image": "https://raw.githubusercontent.com/simbatech30/pinjol/main/banner.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pinjol/main/danamu4.html",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Tips Pinjaman Online",
+      "title": "Cara Mengenali Pinjaman Aman Legal",
+      "image": "https://raw.githubusercontent.com/simbatech30/pinjol/main/banner.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pinjol/main/danamu5.html",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "Tips Pinjaman Online",
+      "title": "Daftar Lender Pinjaman Online Tenor Panjang di Indonesia",
+      "image": "https://raw.githubusercontent.com/simbatech30/pinjol/main/banner.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pinjol/main/danamu6.html",
+      "video": ""
+    },
+    {
+      "id": 7,
+      "category": "Tips Pinjaman Online",
+      "title": "Daftar Lender Pinjaman Online Terpercaya di Indoneisa",
+      "image": "https://raw.githubusercontent.com/simbatech30/pinjol/main/banner.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pinjol/main/danamu7.html",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "Tips Pinjaman Online",
+      "title": "Tips Pinjaman Online Tenor 7 Hari",
+      "image": "https://raw.githubusercontent.com/simbatech30/pinjol/main/banner.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pinjol/main/danamu8.html",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "Tips Pinjaman Online",
+      "title": "Tips Memilih Pinjaman Bunga Rendah Terbaik",
+      "image": "https://raw.githubusercontent.com/simbatech30/pinjol/main/banner.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pinjol/main/danamu9.html",
+      "video": ""
+    },
+    {
+      "id": 10,
+      "category": "Tips Pinjaman Online",
+      "title": "Tips Pijaman Galbay",
+      "image": "https://raw.githubusercontent.com/simbatech30/pinjol/main/banner.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pinjol/main/danamu10.html",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Guide Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+    }
+  ]
+}
