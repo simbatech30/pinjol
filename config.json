@@ -161,12 +161,30 @@
       "video": ""
     }
   ],
-  "more_apps": [
+ "more_apps": [
     {
       "id": 1,
-      "title": "Guide Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+      "title": "Recuperar Contactos Fácil Guía",
+      "image": "https://play-lh.googleusercontent.com/dmuC-zg0Q4Ccu9OkKyuJjsanmuNg2kgLAhkiQh91EE3K2-Q5WwoO6EkTPYcZFroT7hoi=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.windigital.recuparcontactosfacil"
+    },
+     {
+      "id": 2,
+      "title": "Recuperar Fotos Borradas Guía",
+      "image": "https://play-lh.googleusercontent.com/BJFzQFXFKsHjxaiSXkktk1N0pjBGIf2mLNb2-J0BM5zkKlwba0Xp87sgRsny1UnWlg=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.windigital.recuparfotosborradas"
+    },
+     {
+      "id": 3,
+      "title": "como encontrar a tu pareja",
+      "image": "https://play-lh.googleusercontent.com/cfs1s1fGxlMNxLF9dViaQbM3lEx-Df6AX-VG0w7iP31_6B4x8gi-smdjqnxL3MKM9Xk=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.windigital.encontraratupareja"
+    },
+     {
+      "id": 4,
+      "title": "Cómo Recuperar Chat Eliminados",
+      "image": "https://play-lh.googleusercontent.com/xBiXgenFqRT0zzuQA9Cf6E8H594SMX4bZGo-hwEll-GnauuDf9ykCD3F29sIbkCjDg=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.windigital.recuparchateliminados"
     }
   ]
 }
